@@ -1,0 +1,123 @@
+{
+  "qualities": [
+  {
+    "name": "Intégration continue",
+    "projects": [
+      {"id": "icMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "iciSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "iciBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "icGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Design du code",
+    "projects": [
+      {"id": "dcMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dciSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dciBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "dcGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "TU / TI",
+    "projects": [
+      {"id": "tutiMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiiSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiiBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tutiGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Tests fonctionnels",
+    "projects": [
+      {"id": "tfMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfiSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfiBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "tfGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Métrique du code",
+    "projects": [
+      {"id": "mcMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mciSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mciBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mcGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Déploiement continue",
+    "projects": [
+      {"id": "decpMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpiSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpiBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "decpGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Monitoring production",
+    "projects": [
+      {"id": "mpMeta", "name": "Métamorphose - Axa Banque", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpMsh", "name": "MSH - Ingenico", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpiSh", "name": "iSphinx - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpiBe", "name": "iBee - Givaudan", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpBda", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpHom", "name": "Homecare - EA", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpCar", "name": "Car&Boat", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpCat", "name": "LV Catalog", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpLea", "name": "LV Learning", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpLiv", "name": "LV LiVe", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpArt", "name": "Artel", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "mpGla", "name": "Galerie Lafayette", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  }
+  ]
+}

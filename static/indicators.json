@@ -1,0 +1,147 @@
+{
+  "indicators": [
+  {
+    "name": "Bien être équipe",
+    "projects": [
+      {"id": "beeBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "beeMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "beeCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "beeFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "beeGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "beePix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Environnement de travail",
+    "projects": [
+      {"id": "edtBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "edtMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "edtCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "edtFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "edtGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "edtPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Cadre agile",
+    "projects": [
+      {"id": "caBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "caMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "caCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "caFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "caGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "caPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Qualité du backlog",
+    "projects": [
+      {"id": "qdbBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qdbMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qdbCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qdbFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qdbGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qdbPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "L'avancement du sprint / release est suivi",
+    "projects": [
+      {"id": "asrBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "asrMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "asrCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "asrFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "asrGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "asrPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Critère de qualité",
+    "projects": [
+      {"id": "cdqBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cdqMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cdqCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cdqFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cdqGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cdqPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Suivi de l'usine logicielle",
+    "projects": [
+      {"id": "sulBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "sulMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "sulCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "sulFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "sulGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "sulPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Qualité des US",
+    "projects": [
+      {"id": "qduBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qduMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qduCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qduFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qduGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "qduPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Les rétrospectives sont utiles",
+    "projects": [
+      {"id": "rsuBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "rsuMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "rsuCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "rsuFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "rsuGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "rsuPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Déploiement",
+    "projects": [
+      {"id": "depBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "depMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "depCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "depFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "depGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "depPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Collaboration PO / Equipe",
+    "projects": [
+      {"id": "cpeBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cpeMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cpeCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cpeFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cpeGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "cpePix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Maîtrise / gestion de la dette technique",
+    "projects": [
+      {"id": "gdtBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "gdtMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "gdtCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "gdtFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "gdtGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "gdtPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  },
+  {
+    "name": "Partage des pratiques crafts",
+    "projects": [
+      {"id": "pdpBDP", "name": "Projet 1", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "pdpMsh", "name": "Projet 2", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "pdpCvie", "name": "Projet 3", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "pdpFash", "name": "Projet 4", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "pdpGla", "name": "Projet 5", "img": "static/green.png", "arrow": "static/blank.png"},
+      {"id": "pdpPix", "name": "Projet 6", "img": "static/green.png", "arrow": "static/blank.png"}
+    ]
+  }
+  ]
+}
