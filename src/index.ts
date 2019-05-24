@@ -6,7 +6,7 @@ let v = new Vue({
     template: `
     <div>
         <div class="title">Bienvenue {{userName}}</div>
-        <h1>Add Project</h1>
+        <h1>Administrer les projets</h1>
         <add-project-component :name="name"/>
         </div>
     `,
