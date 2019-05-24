@@ -1,16 +1,17 @@
 <template>
     <div>
         <div>
-            <label>Nom de l'indicateur: </label>
+            <label>Nom du projet : </label>
             <input v-model="projectName" type="text"/>
-            <button class="add-indicator-button" @click="addIndicator(projectName)">Ajouter</button>
+            <button class="add-project-button" @click="addProject(projectName)">Ajouter</button>
         </div>
 
         <transition name="fade">
-            <ul class="heroes" v-if="indicators && indicators.length">
-                <li v-for="indicator in indicators">
+            <ul class="project-list" v-if="indicators && indicators.length">
+                <li v-for="project in indicators[0].projects">
                     <div>
-                        <div>{{indicator.name}}</div>
+                        <div>{{project.name}}</div>
+                        <button class="destroy" @click="deleteProject(project)"></button>
                     </div>
                 </li>
             </ul>
@@ -26,22 +27,24 @@
 
     @Component
     export default class IndicatorList extends Vue {
-        /*@Prop() indicator!: Indicator;*/
         editingIndicator!:Indicator;
         projectName:String = "";
         indicators: Indicator[] = [];
 
-        addIndicator(name: string) {
+        addProject(name: string) {
             this.indicators.forEach(function (indicator){
-                let project = new Project(indicator.name.substring(1,2).concat(name.substring(1, 3)), name);
+                let generateId = indicator.name.substring(1, 2).concat(name.substring(1, 3));
+                let project = new Project(generateId, name);
                 indicator.projects.push(project);
             });
-            console.log(this.indicators);
+
             this.editingIndicator = this.cloneIt();
         }
 
-        deleteIndicator(indicator: Indicator) {
-            this.indicators.filter(item => item !== indicator);
+        deleteProject(project: Project) {
+            this.indicators.forEach(function (indicator){
+                indicator.projects.splice(indicator.projects.indexOf(project), 1);
+            });
         }
 
         getIndicators() {
@@ -62,7 +65,3 @@
 
     }
 </script>
-
-<style>
-
-</style>
